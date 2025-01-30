@@ -101,17 +101,18 @@ anime-recommender-system/
 
 
 ---
-## 🎥 Simple demo
-
-<video width="600" controls>
-  <source src="https://github.com/pranayganvir/anime-recomendation-system/blob/main/Images/working.mp4" type="video/mp4">
-</video>
-
 ## 📸 Screenshots
 --
+#### Top 50 Anime
 ![Top 50 Anime](https://github.com/pranayganvir/anime-recomendation-system/blob/main/Images/Screenshot%202025-01-30%20124134.png)
+
+#### Anime Recommendation Dashboard
 ![Anime Recommendation Dashboard](https://github.com/pranayganvir/anime-recomendation-system/blob/main/Images/Screenshot%202025-01-30%20124235.png)
+
+#### Anime Recommendation For Death Note
 ![Anime Recommendation For Death Note](https://github.com/pranayganvir/anime-recomendation-system/blob/main/Images/Screenshot%202025-01-30%20124749.png)
+
+#### Anime Recommendation For One Piece
 ![Anime Recommendation For One Piece](https://github.com/pranayganvir/anime-recomendation-system/blob/main/Images/Screenshot%202025-01-30%20124820.png)
 
 
